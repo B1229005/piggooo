@@ -1,6 +1,6 @@
 # 🧠 AI 行程偏好交集推薦：使用案例描述 (Use Case Specification)
 
-| 欄位名稱 | 最完整、詳細之內容說明 |
+| 欄位名稱 | 詳細之內容說明 |
 | :--- | :--- |
 | **使用案例名稱** | 發起 AI 群組偏好分析 (AI Preference Recommendation) |
 | **主要參與者** | 群組成員、PIGGO 系統核心（AI 引擎） |
